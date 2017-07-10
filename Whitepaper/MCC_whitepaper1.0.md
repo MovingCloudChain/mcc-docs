@@ -42,7 +42,7 @@ In addition to the &quot;health + financial&quot; business model the Moving Clou
 	2. [Delegate Voting](#delegate)
 	3. [New Blocks](#blocks)
 	4. [Missed Blocks](#missedBlocks)
-	5. [BFT and PBFT](#btf)
+	5. [BFT and PBFT](#bft)
 	6. [Sidechains and DAPP](#sidechains)
 	7. [Sandboxes](#sandbox)
 	8. [Transactions](#transactions)
