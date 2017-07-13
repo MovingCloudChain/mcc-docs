@@ -482,9 +482,7 @@ Incorporate an easy to use sidechain subsystem to provide enhance scalability an
 We consider the MCC system as a proactive, low-cost, and full stack solution that will surely be a next generation incubator of decentralized applications.
 
 <a name="contact"></a>
-# 13. 
-
-## Contact Information
+# 13. Contact Information
 
 
 |	Desc.						|	Item		|
