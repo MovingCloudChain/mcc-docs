@@ -17,7 +17,7 @@ In addition to the &quot;health + financial&quot; business model the Moving Clou
 <p><!-- pagebreak --></p>
 
 <a name="Toc"></a>  
-#2.  Table of Contents
+# 2.  Table of Contents
 
 1. [Title](#title)
 2. [Table of Contents](#Toc)
@@ -63,7 +63,7 @@ In addition to the &quot;health + financial&quot; business model the Moving Clou
 <p><!-- pagebreak --></p>
 
 <a name="Revision"></a> 
-#3.  Revision History/修订历史
+# 3.  Revision History/修订历史
 
 | Version/版本 | Description/描述 | Author/作者 | Date/日期 | Email/邮箱 |
 | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ In addition to the &quot;health + financial&quot; business model the Moving Clou
 <p><!-- pagebreak --></p>
 
 <a name="introduction"></a>
-#4.  Introduction: The Moving Cloud Chain
+# 4.  Introduction: The Moving Cloud Chain
 
 In a revolutionary whitepaper released in 2008 by Satoshi Nakamoto, whose name is presumed to be a pseudonym for the Bitcoin core development team, Satoshi describes the protocol and model for a peer-to-peer electronic cash system.   In 2009, the core developers released the first version of the Bitcoin protocol bringing the concept to life.
 
@@ -83,7 +83,7 @@ Moving Cloud Chain (&quot;MCC&quot;) is a new distributed and decentralized appl
 
 The MCC platform itself is a fully open and decentralized application which has it&#39;s own cryptocurrency called MCC coin.  MCC coin is capable of interfacing with sidechains or any decentralized application (DAPP) through the use of a &quot;two-way peg&quot; mechanism so that it can be used to bridge or as a medium for asset transition among all DAPPs.
 
-In order to help developer&#39;s creating a decentralized applications we&#39;ve also provided Software Development Kits (SDKs) and Application Programming Interfaces (APIs) on GitHub along with the source code at the following link:   [https://github.com/xingyunmcc/mcc](https://github.com/xingyunmcc/mcc)
+In order to help developer&#39;s creating a decentralized applications we&#39;ve also provided Software Development Kits (SDKs) and Application Programming Interfaces (APIs) on GitHub along with the source code at the following link:   [https://github.com/movingcloudchain/mcc](https://github.com/movingcloudchain/mcc)
 
 Our SDKs and APIs are based on Turing Complete JavaScript and we hope that by providing a group of industry standard solutions developers will find MCC easy to use, customize, and deploy decentralized applications, smart contracts, digital assets, and customized sidechains.
 
@@ -93,10 +93,10 @@ Already one of the fastest growing blockchain technologies in China, we believe 
 <p><!-- pagebreak --></p>
 
 <a name="useCase"></a>
-#5.  Initial Business Use Cases
+# 5.  Initial Business Use Cases
 
 <a name="enterprise"></a>
-##5.1  Enterprises
+## 5.1  Enterprises
 
 The tools provided with the MCC platform can easily be used to create a complete blockchain and if desired peg the new blockchain to MCC, Bitcoin or other blockchains thereby providing a link to other well developed cryptocurrencies.    We believe this feature will be very attractive to start-up companies as well as small and medium enterprises (SMEs).
 
@@ -105,12 +105,12 @@ Our tools will also allow SMEs to easily customize the blockchain to meet their 
 E-Commerce:  MCC has already established a proof-of-concept (POC) store in China using the MCC platform for both the storefront, device marketplace and client applications.  It was initially launched for China market but we plan to extend this internationally as soon as possible.  It is a fitness based platform based on a concept we call proof-of-effort (POE) which is a real-world physical activity driven platform rewards users with coins based on their activity.  The <http://mcc.mcstore.com> is currently only available in Chinese language but international version are in progress.
 
 <a name="developers"></a>
-##5.2  Developers
+## 5.2  Developers
 
 Using JavaScript developers can easily create and deploy DAPP applications and games by following their own business models and design goals.   The business models may be free, fixed price, or supported by in-game/in-app purchases.   Developers are free to design and create the revenue model that works best for them and their applications.
 
 <a name="consumer"></a>
-##5.3  Consumer
+## 5.3  Consumer
 
 Individual users can earn MCC coins just by exercising through our Proof-of-Effort algorithm and intelligent wearable devices.   They can also download, install, and use any number of DAPPs through the MCC Store and client applications.  MCC platform can also support different kinds of decentralized applications that allows for users to contribute content or towards application development while also being able to earn money for their contributions.   This opens the possibility for users and developers to create vivid communities and ecosystems around popular applications and games.
 
@@ -133,30 +133,30 @@ Please reference Figures 1 and 2 for an illustration of a simple DAPP/sidechain 
 <p><!-- pagebreak --></p>
 
 <a name="highlights"></a> 
-#6.  System Highlights
+# 6.  System Highlights
 
 <a name="develLang"></a>
-##6.1 Development Language
+## 6.1 Development Language
 
 We chose JavaScript as the primary development language because of its numerous NPM libraries, ease of use, and general popularity in comparison to languages being used on other platforms.  JavaScript combined with SQLite makes DApp development easier and more similar to traditional web/app development which we believe will make our platform easier and more convenient for developers to use and build on.
 
 <a name="toolkits"></a>
-##6.2 Toolkits
+## 6.2 Toolkits
 
 We built a command-line utility so that sidechains can be created quickly and easily to help reduce development work and time to market.  We also developed a series of APIs that allow the developer to easily access complex functions such as consensus mechanism, random number generation, database, and cryptography functions are easier to access and can be quickly updated for scalability and security.
 
 <a name="deploy"></a>
-##6.3 Deployment
+## 6.3 Deployment
 
 On Moving Cloud Chain it is very easy to deploy a DApp.   Developers just need to commit their project on Github and then register their DApp using our web based or lightweight wallets.   The DApps can then be downloaded accessed by any user on the platform.
 
 <a name="flexibility"></a>
-##6.4 Flexibility
+## 6.4 Flexibility
 
 We design the system with adaptability and flexibility in mind so that developers can freely customize all parameters in their sidechain such as transaction processing speed, transaction types, transaction fees, and consensus mechanisms.
 
 <a name="security"></a>
-##6.5 Security
+## 6.5 Security
 
 One key highlight of the MCC platform is our consensus algorithm that is based on combining Practical Byzantine Fault Tolerance (PBFT) with Delegated Proof of Stake (DPOS).   This greatly reducing the attack surface and will prevent bifurcation of the network as long as the majority of validators are honest.  This significantly reduces the chance of fork happening without delegate approval in addition the community could vote to manually revert all of the blocks produced by the attacker since the attacker will always be known.
 
@@ -165,10 +165,10 @@ We have implemented BIP 39 (passphrase system), multi-signature support, and a t
 
 
 <a name="design"></a> 
-#7.  Design Rationale
+# 7.  Design Rationale
 
 <a name="tc"></a>
-##7.1  Turing-Completeness, scripting, and Sidechains
+## 7.1  Turing-Completeness, scripting, and Sidechains
 
 One of the design highlights in Bitcoin is its scripting engine that allows for not only transferring currency but can perform smart contracts, automate multi-signature functions, perform escrow functions and allow for arbitration.   However, Bitcoin&#39;s scripting engine is not without limitations such as not being able to support looping instructions, limitations on script length or size, and transaction limitations.
 
@@ -179,7 +179,7 @@ Ethereum then became the prevalent platform for decentralized applications.  How
 In contrast,  a sidechain mechanism addresses scalability completely differently.  On the MCC platform every sidechain runs in a different distributed node network with independent audiences, investors, and development teams.  This natural fragmentation solution not only solves many of the problems with blockchain expansion rates but also allows each application to have a personalized set of books (blockchain), consensus mechanism, block parameters, and transaction types.   So, we propose that sidechains are a less costly, more flexible and easy-to-use solution than solely Turing-Complete programming/scripting alone.
 
 <a name="accounts"></a>
-##7.2  Accounts and UTXO
+## 7.2  Accounts and UTXO
 
 In Bitcoin and derived systems the concept of an &quot;account&quot; is deprecated and may be removed at some point in the future.   [https://github.com/bitcoin/bitcoin/issues/3816](https://github.com/bitcoin/bitcoin/issues/3816)  However, the Bitcoin accounting system was never designed to be a bookkeeping system per se but rather as a way to organize groups of addresses.  In a Bitcoin wallet you can have many of these &quot;accounts&quot; linked to different groups of addresses.   However, when sending Bitcoin the &quot;sendtoaddress&quot; command/api function does not distinguish between accounts.   It checks the wallet for all UTXOs or Unspent Transaction Outputs and sums them to determine if there are a sufficient quantity of Bitcion&#39;s in the users wallet to complete the transfer.
 
@@ -204,7 +204,7 @@ Thus the MCC platform is not a &quot;pure&quot; currency system because it was d
 
 <a name="relational"></a> 
 
-##7.3  Relational Databases versus Non-Relational Databases
+## 7.3  Relational Databases versus Non-Relational Databases
 
 Currently the majority of blockchain systems are using lightweight non-relational databases such as Berkeley DB, LevelDB, etc.   Usually these kinds of database support some simple data structures, like B-tree, hashtable, and queue.  However they are generally not able to manipulate data through SQL. Perhaps non-relational databases are good enough for many electronic currency applications but we don&#39;t believe this is the case for smart contract and DApp platform applications considering finance, banking, e-commerce and other sectors.  Current mainstream non-blockchain software application generally all use a relational database for these industries because of the following advantages:
 
@@ -218,15 +218,15 @@ We chose SQLite, a high performance embedded relational database system, that ca
 <p><!-- pagebreak --></p>
 
 <a name="technical"></a> 
-#8.  Technical Details
+# 8.  Technical Details
 
 <a name="consensus"></a>
-##8.1  Consensus Mechanism
+## 8.1  Consensus Mechanism
 
 The consensus mechanism used by MCC system is based on DPOS combined with an optimized PBFT algorithm to implement a principal electoral system composed of delegates or trustees and candidates (potential trustees).    The algorithm can achieve consensus with O(N^2) message complexity and O(1) time complexity when t (number of nodes on which a problem can occur such as attack, network error, or is offline) is less than n/3 where n = total number of all nodes or simply (t&lt;n/3).
 
 <a name="delegates"></a>
-##8.2 Delegate Voting
+## 8.2 Delegate Voting
 
 Similar to other DPOS systems there are a current maximum of 101 delegates or trustees on the MCC platform.   Delegates are trustful account nodes that maintain the network, process transactions, and add new blocks.   They are voted for by the community and all other nodes are called candidates.   The top 101 candidates with the most votes become can become delegates.
 
@@ -235,17 +235,17 @@ Every MCC user has the right to vote for up to 101 delegates with the weight of 
 Each round of voting generates 101 blocks and changes in rank are reflected after each round.
 
 <a name="blocks"></a>
-##8.3	New Blocks
+## 8.3	New Blocks
 
 8.3.1	 New blocks are added to the blockchain and broadcast to the network every 10 seconds.  Once a new block is accepted into the chain the confirmation count for all transactions will increase by 1.   After gaining at least 6 confirmation a transaction can generally be considered as safe or final.   Safety is considered as a function of the size of the transaction versus the confirmation count whereas a transaction concerning only a small amount of money may only require 1 confirmation and if the transaction concerns a very large amount of money it will require additional confirmations.
 
 <a name="missedBlocks"></a>
-##8.4	Network issues and &quot;missed&quot; blocks
+## 8.4	Network issues and &quot;missed&quot; blocks
 
 If a significant number of delegates exhibit failure a schedule block will &quot;miss&quot; and get recorded by the network.  This can also affect the number of nodes that appear &quot;online&quot; and slow down the voting process.  Therefore election of delegates should be considered carefully so that election process promotes the safety and stability of the platform.
 
 <a name="bft"></a>
-##8.5	Byzantine Fault Tolerance (BFT) and Practical Byzantine Fault Tolerance (PBFT)
+## 8.5	Byzantine Fault Tolerance (BFT) and Practical Byzantine Fault Tolerance (PBFT)
 
 One of the major differences between MCC system and traditional DPOS systems is that MCC is a hybrid system that applies both DPOS and PBFT algorithms to try to reduce the risks, instability, and attack vectors that have affected other DPOS systems.
 
@@ -260,7 +260,7 @@ While it is possible for this type of attack to occur on the MCC platform we thi
 In addition we apply a PBFT algorithm that chooses delegates by way of round-robin. However, blocks are not generated after delegates are vote. Instead, a proposal is issued to determine the hash of the next block.   And only when more than 2/3 of all nodes agree with this proposal will the next block will be generated. And this hash must match that as agreed with all delegates of current round.  So the addition of PBFT helps to solve the issue of abuse of delegates&#39; rights and improved the security and control of the blockchain.
 
 <a name="sidechains"></a>
-##8.6	Sidechain and DAPP
+## 8.6	Sidechain and DAPP
 
 8.6.1		MCC system provides a command line utility that developers can use to easily create a basic sidechain system. Developers are also able to fully customize their sidechain system, including its own database, consensus mechanism, trading mode and account architecture. The sidechain system can be hosted either by clusters of nodes or individual delegates creating shards that partition the network reducing growth rate of the main blockchain.
 
@@ -285,7 +285,7 @@ Withdrawals from DAPPs are the main node&#39;s responsibility! When a withdrawal
 So DAPP developers can issue their own tokens to use it as the currency of their DAPP platform. The only limitation is that DAPPs cannot exchange tokens directly with each other using this mechanism but must use either Bitcoin or MCC as the network medium.
 
 <a name="sandbox"></a>
-##8.7	Sandbox and VM
+## 8.7	Sandbox and VM
 
 What is a Sandbox?   A Sandbox special type of environment for running programs in a restricted environment governed by a security policy.   Many times these are used in order to test software without affecting the main system.   A sandbox is also used to test suspicious software if it is suspect that the integrity is suspected of being compromised by virus or other malicious and unwanted behavior.   A sandbox will typically intercept the system calls, monitor a program&#39;s activities, and control usage of computer&#39;s resources such as disk I/O, file system, or network access according to user&#39;s policy.
 
@@ -294,7 +294,7 @@ The MCC platform implements a sandbox mechanism by using the VM module of nodejs
 It also lacks the &quot;require&quot; function therefore many third-party libraries cannot be easily imported and modular development is not impossible.   This requires DAPP developers to use a &quot;browserify&quot; technique to bundle all the third-party libraries their application needs encoded to a JavaScript file so that the MCC system can load it to run.  Some necessary system level APIs are provided to sidechain through IPC (Inter-Process Communication), which takes into account both security and functional completeness.
 
 <a name="transaction"></a>
-##8.8  Transaction
+## 8.8  Transaction
 
 The MCC system has built-in abstract transaction layer on which almost all the functionalities of system core are established, such as:  token transfers, voting, application store, deposits, and withdrawals. Sidechains can also implement their own type of transaction.  The main difference between each transaction is the type of transaction and the asset. The underlying transaction data structure is as defined below but there are extensions to this for some type of transactions.
 
@@ -324,7 +324,7 @@ Let&#39;s take a voting transaction as an example of an extension:  each vote is
     }
 ```
 <a name="accountSystem"></a>
-##8.9	Account System
+## 8.9	Account System
 
 Every account in MCC system consists of one passphrase, a pair of public/private key, and an address.  Users can also set their a secondary password.
 
@@ -350,7 +350,7 @@ The account address is a big number generated by reversely converting the first 
 Account Number:  5034187504202890358
 ```
 <a name="client"></a>
-##8.10 Client
+## 8.10 Client
 
 MCC platform provides three classes of clients &quot;full&quot;, &quot;lite&quot;, and &quot;mobile:
 
@@ -367,22 +367,22 @@ DAPP users can take advantage of lite version wallet to find DAPPs and manage in
 The mobile version of the client allows users to manage their own MCC accounts on mobile devices for using both iOS and Android platforms.  The client can be downloaded from either Apple&#39;s appstore or Google&#39;s Google Play respectively.   The backend of the client is based on the same solution as that applied in our desktop version, but mobile client applies responsive UI instead to fit the mobile device screen and changes some interfaces as necessary to be compatible with the mobile device&#39;s operating system. The mobile client makes interacting with or using MCC very convenient and user friendly and it also supports all the DAPP capabilities of our platform.
 
 <a name="performance"></a>
-##8.11	Performance and Scalability
+## 8.11	Performance and Scalability
 
 A single transaction requires ~100 bytes.  So let&#39;s look at the network bandwidth required to process 10,000 transactions per second (TPS).   Currently a block is processed every 10 seconds so each block would need to contain 100,000 transaction and size of the block will equal 10 megabytes (MB).   This 10MB block needs reach all nodes and with our current parameters we can expect 10 nodes to receive this block within ~5 seconds, 100 nodes receive the block in ~10 seconds and so on as every node shares the data with its peers.   For this size block we expect that block can reach the next node every 5 seconds so in order to achieve this we expect a nominal bandwidth of at least 20 MB/s per node (10MB data x 10 nodes / 5 seconds).   We realize that in real life bandwidth can and will be highly variable and there is much room for optimization in this area.   However this is a problem for all blockchain platforms and there is a lot of research and development being done in order to better optimize network performance, latency, and transaction processing.
 
 <a name="additional"></a>
-#9.	Additional Platform Features and Examples
+# 9.	Additional Platform Features and Examples
 
 <a name="token"></a>
-##9.1 Token System
+## 9.1 Token System
 
 In the MCC toolkit we provide a simple &quot;hello world&quot; program that functions as a simple token system.
 
 It is easy for anyone to create a token without even needing to write a single line of code because a new token system can be created by just editing some parameters in a JSON configuration file.  These token functions in a way similar to how the Ethereum system works.  The tokens on the MCC platform can represent gold, stock, mortgage, or any other type of asset.  And once created they can be traded because in effect the tokens are running in a sidechain and can be accessible via DAPP or MCC platform.
 
 <a name="arbitration"></a>
-##9.2	Mediation and Segregated Witness
+## 9.2	Mediation and Segregated Witness
 
 There are many types of business transactions that involve paying money to or receiving money from people or companies we don&#39;t know, especially in e-commerce transactions where it is frequently the case to do business with unknown people or companies.  So many times it is in the interest of both parties to conduct business through an intermediary such as Ebay or Taobao and many other platforms.
 
@@ -405,7 +405,7 @@ The process:
 4. The buyer, seller or both can then send complaints and whatever evidence they have supporting their side of the situation to the mediator.  The mediator can then either sign the transaction if they agree with the seller or create a new transaction reverting the money the money to the buyer if the product or service was never delivered.  In the latter case both the buyer and mediator would to need create a new transaction refunding money to the buyer.
 
 <a name="exchange"></a>
-##9.3	Decentralized Exchange
+## 9.3	Decentralized Exchange
 
 In a decentralized exchange there are two basic types of exchange functions:  digital currency (DC) to fiat and digital currency to digital currency.   For example: an exchange of Bitcoin (BTC) to U.S. Dollar (USD) or Chinese Renminbi (CNY) is a fiat to DC exchange.  Whereas a Bitcoin (BTC) to Litecoin (LTC) is a DC to DC exchange.
 
@@ -414,12 +414,12 @@ Protocols and methods for a fully decentralized fiat to DC exchange are still no
 However DC-to-DC exchanges are relatively straightforward as currencies can be transferred directly through peer-to-peer trade using an &quot;atomic cross chain exchange API&quot;.  Or they can be processed using a using another medium such as MCC where the seller is required to transfer some quantity of an asset from another blockchain such as Bitcoin (BTC) to an MCC sidechain.  This can be done by using an SPV proof-of-frozen-assets on MCC&#39;s main chain.  However since we are using relational databases it is fairly easy to create a well performing matching engine using query and index functions.
 
 <a name="existence"></a>
-##9.4	Proof-Of-Existence
+## 9.4	Proof-Of-Existence
 
 Proof-Of-Existence can be used to register copyright, patents, and trademarks or other documents.  It is based on the concept of applying checksums and digital signatures to signing files.   These signatures can be added to the MCC blockchain thus anyone can verify that files are authentic by checking the signatures in the chain.  We can also add metadata such as timestamps, owners&#39; digital signatures to prove when they own these files.  Once recorded on the blockchain the information cannot be forged or revised and it does not expose any private data but can be verified at any time without the need for a third party.
 
 <a name="iot"></a>
-##9.5 IoT (Internet of Things)
+## 9.5 IoT (Internet of Things)
 
 There are many types of IoT devices and each category consumer, commercial, industrial will probably need a separate approach.  However on the MCC platform sidechains can be rapidly configured to meet these specialized needs.  Using sidechains devices can be assigned an ID and then communicate with system using SPV APIs.
 
@@ -428,17 +428,42 @@ In this kind of system devices can report status to an application monitoring th
 A potential use case would be a MCC enabled vending machine running on a sidechain the vending machine can then report inventory levels, process payments, and send machine health or error information directly to the sidechain where management or service technicians can receive alerts or monitor inventory levels.
 
 <a name="premine"></a>
-#10 Pre-mining and Allocations
+# 10 Pre-mining and Allocations
 
-###1.	60% (600 million) MCC reserved for intelligent sports wear.   Amount to be released over a 10 year period 60 million additional MCC available each year.	a.	Escrow Address: MDKATRHEXP6xPFLyetkZdwrgJLoVi3VsG9<br>	b.	Escrow Address: M61aEnahT7z3Ax8Rn8d4Jj3YcEfnpHNw1r<br>	c.	Escrow Address: MAgAyPjgz17xfta8Ng6BjRAYZjwZcwnHd7<br>###2.	40% (400 million) MCC reserved for mergers, acquisitions, market incentives, operations, continued research and development.  Currently all of these are unspent and locked. ####a.	30% (300 million) reserved for mergers, acquisitions, market maker, factory incentives, and hardware and intelligent device research and development.	1.	Escrow Address:  MCgFRj7AfZCkqvHoYkuwd6PKUfT18mUsz3	2.	Escrow Address:  M5LDSZLHtGnTdjXSuh1zZXzeiv59myWkKx	3.	Escrow Address:  MPYTM3prmtNSpeszsTEBfqUSBYwshDrKf8####b.	10% (100 million) reserved software development, platform operations, and hardware upgrades.  Any will release will be published with at least 7 working days notice.	1.	Escrow Address:  M6bLdxbjuSWibyJBwu6TPyLnkYzDKmEr8H<a name="mccBlock"></a>
-#11.  Blockchain Specification
-|	Desc.						|	Item		|| ---							| 	---:		||Name:		  				| Moving Cloud||English abbreviation:| MCC		|
+### 1.	60% (600 million) MCC reserved for intelligent sports wear.   Amount to be released over a 10 year period 60 million additional MCC available each year.
+
+	a.	Escrow Address: MDKATRHEXP6xPFLyetkZdwrgJLoVi3VsG9<br>
+	b.	Escrow Address: M61aEnahT7z3Ax8Rn8d4Jj3YcEfnpHNw1r<br>
+	c.	Escrow Address: MAgAyPjgz17xfta8Ng6BjRAYZjwZcwnHd7<br>
+
+### 2.	40% (400 million) MCC reserved for mergers, acquisitions, market incentives, operations, continued research and development.  Currently all of these are unspent and locked. 
+
+#### a.	30% (300 million) reserved for mergers, acquisitions, market maker, factory incentives, and hardware and intelligent device research and development.
+
+	1.	Escrow Address:  MCgFRj7AfZCkqvHoYkuwd6PKUfT18mUsz3
+	2.	Escrow Address:  M5LDSZLHtGnTdjXSuh1zZXzeiv59myWkKx
+	3.	Escrow Address:  MPYTM3prmtNSpeszsTEBfqUSBYwshDrKf8
+
+#### b.	10% (100 million) reserved software development, platform operations, and hardware upgrades.  Any will release will be published with at least 7 working days notice.
+
+	1.	Escrow Address:  M6bLdxbjuSWibyJBwu6TPyLnkYzDKmEr8H
+
+<a name="mccBlock"></a>
+# 11.  Blockchain Specification
+|	Desc.						|	Item		|
+| ---							| 	---:		|
+|Name:		  				| Moving Cloud|
+|English abbreviation:| MCC		|
 |The core algorithm: | 	round-robin|
-|Block Time:				| 	10 seconds ||Main features:			|	DPOS, PBFT, Javascript|
-|Pre-Mine amount:		| 	1 billion MCC pre dig (POW)||POS interest: 			|				0%||Pre-dig:					|		Yes||Wallet transfer fee:| 		0.01 MCC|
+|Block Time:				| 	10 seconds |
+|Main features:			|	DPOS, PBFT, Javascript|
+|Pre-Mine amount:		| 	1 billion MCC pre dig (POW)|
+|POS interest: 			|				0%|
+|Pre-dig:					|		Yes|
+|Wallet transfer fee:| 		0.01 MCC|
 
 <a name="conclusion"></a>
-#12	Conclusion
+# 12	Conclusion
 
 Moving Cloud Chain is a decentralized application platform that is designed to:
 
@@ -457,12 +482,14 @@ Incorporate an easy to use sidechain subsystem to provide enhance scalability an
 We consider the MCC system as a proactive, low-cost, and full stack solution that will surely be a next generation incubator of decentralized applications.
 
 <a name="contact"></a>
-#13. 
+# 13. 
 
 ## Contact Information
 
 
-|	Desc.						|	Item		|| ---							| 	---:		||Website:		  			| [_mcc.mcstore.cn_](mcc.mcstore.cn)|
+|	Desc.						|	Item		|
+| ---							| 	---:		|
+|Website:		  			| [_mcc.mcstore.cn_](mcc.mcstore.cn)|
 |								| [_www.mcstore.cn_](www.mcstore.cn)|
 |Block Explorer			| [_http://block.mcstore.cn/_](http://block.mcstore.cn/)|
 |General Information:| <contact@mcstore.cn>|
@@ -472,7 +499,7 @@ We consider the MCC system as a proactive, low-cost, and full stack solution tha
 **Note:   Currently website is only available in Chinese but we are furiously working on translations for English, Japanese, and other languages!**  
 
 <a name="references"></a>
-#14. References:
+# 14. References:
 
 * Practical Byzantine Fault Tolerance: [_http://pmg.csail.mit.edu/papers/osdi99.pdf_](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 
