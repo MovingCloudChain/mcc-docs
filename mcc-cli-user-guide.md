@@ -627,7 +627,7 @@ root@MCC:~# MCC-cli -H 101.200.162.236 -P 16833 getunconfirmedtransactions -k "d
   }
 ]
 ```
-<a name="418 getAnalyzeTransInfo"></a>
+<a name="418 getAnalyseTransInfo"></a>
 ###4.18 Get/analyze transaction information 
 **Command:** gettransactions [options]
 
@@ -635,7 +635,7 @@ root@MCC:~# MCC-cli -H 101.200.162.236 -P 16833 getunconfirmedtransactions -k "d
 
 **Usage:** MCC-cli gettransactions -b [block ID] -o [offset] -l [an integer that indicate maximum return data] 
 
-**NOTICE:** try `MCC-cli gettransactions -h` to get the information for other parameters.
+**NOTICE:** Run `MCC-cli gettransactions -h` to get the information for other parameters.
 
 **Example:**
 

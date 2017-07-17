@@ -460,7 +460,7 @@ A potential use case would be a MCC enabled vending machine running on a sidecha
 |Pre-Mine amount:		| 	1 billion MCC pre dig (POW)|
 |POS interest: 			|				0%|
 |Pre-dig:					|		Yes|
-|Wallet transfer fee:| 		0.01 MCC|
+|Wallet transfer fee:| 		0.1 MCC|
 
 <a name="conclusion"></a>
 # 12	Conclusion
