@@ -67,7 +67,7 @@ In addition to the &quot;health + financial&quot; business model the Moving Clou
 
 | Version/版本 | Description/描述 | Author/作者 | Date/日期 | Email/邮箱 |
 | --- | --- | --- | --- | --- |
-| V1.0 | 1st Release/初稿 |   | 2017-06-23 | <developer@mcstore.cn>  |
+| V1.0.a | 1st Release/初稿 |   | 2017-06-23 | <developer@mcstore.cn>  |
 <p><!-- pagebreak --></p>
 
 <a name="introduction"></a>
@@ -485,7 +485,7 @@ We consider the MCC system as a proactive, low-cost, and full stack solution tha
 # 13. Contact Information
 
 
-|	Desc.						|	Item		|
+|	Desc.						|	Link		|
 | ---							| 	---:		|
 |Website:		 			| 				|
 |	Chinese:				| [_mcc.mcstore.cn_](mcc.mcstore.cn)|
@@ -495,6 +495,10 @@ We consider the MCC system as a proactive, low-cost, and full stack solution tha
 |	English:				|	[_http://block.mcstore.cn/block_en/_](http://block.mcstore.cn/block_en/)|
 |General Info. Contact:| <contact@mcstore.cn>|
 |Development Contact:  | 	<developer@mcstore.cn>|
+|Github:						|  [_https://github.com/MovingCloudChain_](https://github.com/MovingCloudChain)	|
+|Exchanges:			|	[_YunBao_](https://www.yuanbao.com/trade/mcc2cny)|
+|							|	[_YunBi_](https://www.jubi.com/coin/mcc/)
+
 
 
 
@@ -522,3 +526,15 @@ We consider the MCC system as a proactive, low-cost, and full stack solution tha
 * Crypti [_https://github.com/borispovod/crypti-docs_](https://github.com/borispovod/crypti-docs)
 
 * ASCH	[_https://github.com/AschPlatform/asch_](https://github.com/AschPlatform/asch)
+
+#15 License
+
+The MIT License (MIT)
+
+Copyright 2017 Shenzhen Cross Vision Technology Co., Ltd. and Shenzhen Blockchain Technology Group
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
