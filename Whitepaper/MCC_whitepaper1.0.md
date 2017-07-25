@@ -487,14 +487,16 @@ We consider the MCC system as a proactive, low-cost, and full stack solution tha
 
 |	Desc.						|	Item		|
 | ---							| 	---:		|
-|Website:		  			| [_mcc.mcstore.cn_](mcc.mcstore.cn)|
-|								| [_www.mcstore.cn_](www.mcstore.cn)|
-|Block Explorer			| [_http://block.mcstore.cn/_](http://block.mcstore.cn/)|
-|General Information:| <contact@mcstore.cn>|
-|Development Group:  | 	<deverloper@mcstore.cn>|
+|Website:		 			| 				|
+|	Chinese:				| [_mcc.mcstore.cn_](mcc.mcstore.cn)|
+|	English					| [_http://mcc.mcstore.cn/en/index.html_](http://mcc.mcstore.cn/en/index.html)|
+|Block Explorer			|				|
+|	Chinese:				| [_http://block.mcstore.cn/_](http://block.mcstore.cn/)|
+|	English:				|	[_http://block.mcstore.cn/block_en/_](http://block.mcstore.cn/block_en/)|
+|General Info. Contact:| <contact@mcstore.cn>|
+|Development Contact:  | 	<developer@mcstore.cn>|
 
 
-**Note:   Currently website is only available in Chinese but we are furiously working on translations for English, Japanese, and other languages!**  
 
 <a name="references"></a>
 # 14. References:
