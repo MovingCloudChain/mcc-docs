@@ -6,7 +6,7 @@ Moving Cloud Chain
 <br>
 Whitepaper
 <br>
-Version 1.0
+Version 1.1
 </p>
 
 <strong> Abstract: </strong>   Moving Cloud Chain is a distributed data storage protocol based on blockchain technologies.  It is our goal to build a safe, stable and intelligent blockchain platform that can support many use cases and can meet the needs of financial, Internet-of-Things (IoT), entertainment, gaming, health, and wellness industries. 
@@ -67,7 +67,7 @@ In addition to the &quot;health + financial&quot; business model the Moving Clou
 
 | Version/版本 | Description/描述 | Author/作者 | Date/日期 | Email/邮箱 |
 | --- | --- | --- | --- | --- |
-| V1.0.a | 1st Release/初稿 |   | 2017-06-23 | <developer@mcstore.cn>  |
+| V1.1.a | 1st Release/初稿 |   | 2017-06-23 | <developer@mcstore.cn>  |
 <p><!-- pagebreak --></p>
 
 <a name="introduction"></a>
