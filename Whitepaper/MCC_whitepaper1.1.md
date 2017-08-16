@@ -496,7 +496,7 @@ We consider the MCC system as a proactive, low-cost, and full stack solution tha
 |General Info. Contact:| <contact@mcstore.cn>|
 |Development Contact:  | 	<developer@mcstore.cn>|
 |Github:						|  [_https://github.com/MovingCloudChain_](https://github.com/MovingCloudChain)	|
-|Exchanges:			|	[_YunBao_](https://www.yuanbao.com/trade/mcc2cny)|
+|Exchanges:			|	[_YuanBao_](https://www.yuanbao.com/trade/mcc2cny)|
 |							|	[_YunBi_](https://www.jubi.com/coin/mcc/)
 
 
