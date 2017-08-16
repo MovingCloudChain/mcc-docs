@@ -489,10 +489,10 @@ We consider the MCC system as a proactive, low-cost, and full stack solution tha
 | ---							| 	---:		|
 |Website:		 			| 				|
 |	Chinese:				| [_mcc.mcstore.cn_](mcc.mcstore.cn)|
-|	English					| [_http://mcc.mcstore.cn/en/index.html_](http://mcc.mcstore.cn/en/index.html)|
+|	English:				| [_http://mcc.mcstore.cn/en/index.html_](http://mcc.mcstore.cn/en/index.html)|
 |Block Explorer			|				|
-|	Chinese:				| [_http://block.mcstore.cn/_](http://block.mcstore.cn/)|
-|	English:				|	[_http://block.mcstore.cn/block_en/_](http://block.mcstore.cn/block_en/)|
+|	Chinese:				| [_http://block.mcstore.cn/_](http://block.mcstore.cn/)  |
+|	English:				|	[_http://block.mcstore.cn/block_en/_](http://block.mcstore.cn/block_en/)  |
 |General Info. Contact:| <contact@mcstore.cn>|
 |Development Contact:  | 	<developer@mcstore.cn>|
 |Github:						|  [_https://github.com/MovingCloudChain_](https://github.com/MovingCloudChain)	|
