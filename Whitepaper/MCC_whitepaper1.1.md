@@ -255,9 +255,9 @@ One of the major differences between MCC system and traditional DPOS systems is 
 
 While it is possible for this type of attack to occur on the MCC platform we think it is unlikely given the costs associated with such an attack, the process of validator selection, and the percentage of validators that must collude to form such an attack.   It could however slow the network down until the validators can converge the blockchain into the correct order.
 
-8.5.3		The process:   In MCC first the list of delegates is randomly sorted for the current round of voting so the nodes cannot predict the order in which delegates are chosen to produce/validate blocks then delegates are selected to process blocks using a round-robin algorithm.
+8.5.3		The process:   First the list of delegates is randomly sorted based based on the delegate status for the most recent election.  This helps to prevent a node or group of nodes from trying to predict the order in which delegates are chosen to produce/validate blocks.  Then delegates are selected by using a round-robin algorithm.
 
-In addition we apply a PBFT algorithm that chooses delegates by way of round-robin. However, blocks are not generated after delegates are vote. Instead, a proposal is issued to determine the hash of the next block.   And only when more than 2/3 of all nodes agree with this proposal will the next block will be generated. And this hash must match that as agreed with all delegates of current round.  So the addition of PBFT helps to solve the issue of abuse of delegates&#39; rights and improved the security and control of the blockchain.
+In addition to the above we apply a PBFT algorithm so blocks are not generated directly after delegates are elected. Instead, a proposal is issued to determine the hash of the next block.  And only when more than 2/3 of all nodes agree with this proposal will the next block be generated. And the hash must match with all delegates participating in the current round.  Thus the addition of a PBFT at this point helps to reduce the possibility of stake grinding through the abuse of delgates' rights and improves the overall security and stability of the blockchain.  
 
 <a name="sidechains"></a>
 ## 8.6	Sidechain and DAPP
@@ -454,7 +454,7 @@ A potential use case would be a MCC enabled vending machine running on a sidecha
 | ---							| 	---:		|
 |Name:		  				| Moving Cloud|
 |English abbreviation:| MCC		|
-|The core algorithm: | 	round-robin|
+|The core algorithm: | 	DPOS, PBFT|
 |Block Time:				| 	10 seconds |
 |Main features:			|	DPOS, PBFT, Javascript|
 |Pre-Mine amount:		| 	1 billion MCC pre dig (POW)|
